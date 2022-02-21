@@ -1,2 +1,2 @@
 # OnlineBookStoreMongoDB
-基于MongoDB数据实现图书管理系统
+基于MongoDB数据库实现图书管理系统
